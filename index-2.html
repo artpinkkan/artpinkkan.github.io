@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 
-<!-- robert/  03:29:43 GMT -->
+<!-- robert/index.html  03:31:31 GMT -->
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -83,7 +83,7 @@
 /
 </div>
 <div class="contact-item">
-<a href="http://paul-themes.com/cdn-cgi/l/email-protection#5b3834352f3a382f1b2934393e292f75383436"><span class="__cf_email__" data-cfemail="d0b3bfbea4b1b3a490a2bfb2b5a2a4feb3bfbd">[email&#160;protected]</span></a>
+<a href="http://paul-themes.com/cdn-cgi/l/email-protection#73101c1d0712100733011c111601075d101c1e"><span class="__cf_email__" data-cfemail="bbd8d4d5cfdad8cffbc9d4d9dec9cf95d8d4d6">[email&#160;protected]</span></a>
 </div>
 </div>
 </header>
@@ -425,7 +425,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium dicta sit 
 <h2 class="title-uppercase"><span class="text-primary">NEW YORK</span>,USA</h2>
 <h5 class="text-muted">166 Main Street, Beverly Hills, CA 90210</h5>
 <section class="contact-address">
-<h3><a class="mail" href="http://paul-themes.com/cdn-cgi/l/email-protection#41222e2f3520223501332e232433356f222e2c"> <span class="__cf_email__" data-cfemail="10737f7e6471736450627f727562643e737f7d">[email&#160;protected]</span></a></h3>
+<h3><a class="mail" href="http://paul-themes.com/cdn-cgi/l/email-protection#74171b1a0015170034061b161106005a171b19"> <span class="__cf_email__" data-cfemail="791a16170d181a0d390b161b1c0b0d571a1614">[email&#160;protected]</span></a></h3>
 <h3><span class="phone">+96 56-85-1379</span></h3>
 </section>
 </div>
@@ -441,7 +441,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium dicta sit 
 </div>
 <div class="form-group col-sm-12">
 <input type="text" name="subject" placeholder="Subject (Optinal)">
- </div>
+</div>
 <div class="form-group col-sm-12">
 <textarea name="message" required="" placeholder="Message*"></textarea>
 </div>
@@ -478,5 +478,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium dicta sit 
 <script src="js/scripts.js"></script>
 </body>
 
-<!-- robert/  03:30:37 GMT -->
+<!-- robert/index.html  03:31:31 GMT -->
 </html>
